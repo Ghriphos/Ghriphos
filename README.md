@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/ghriphos"><img src="https://github.com/Ghriphos/Ghriphos/blob/main/devcard.svg" width="400" alt="Luis Melo's Dev Card"/></a>
+<a href="https://app.daily.dev/ghriphos"><img src="https://github.com/Ghriphos/Ghriphos/blob/main/devcard.svg" width="200" alt="Luis Melo's Dev Card"/></a>
 <!--
 **Ghriphos/Ghriphos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
