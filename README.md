@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+First Ricing with Hyprland and Noctalia
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/242c6d22-df00-4359-9fe4-75cb070322ec" />
