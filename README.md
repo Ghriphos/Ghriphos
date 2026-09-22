@@ -174,31 +174,21 @@ I enjoy transforming manual workflows, spreadsheets and disconnected tools into 
 
 ---
 
-## GitHub Stats
+GitHub Stats
 
 <div align="center">
 
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=ghriphos&show_icons=true&hide_border=true&bg_color=101114&title_color=6366F1&icon_color=818CF8&text_color=F3F0E8"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ghriphos&show_icons=true&hide_border=true&bg_color=101114&title_color=6366F1&icon_color=818CF8&text_color=F3F0E8" />
 
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghriphos&layout=compact&hide_border=true&bg_color=101114&title_color=6366F1&text_color=F3F0E8"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghriphos&layout=compact&hide_border=true&bg_color=101114&title_color=6366F1&text_color=F3F0E8" />
 
 </div>
 
----
-
-## GitHub Activity
+GitHub Activity
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ghriphos&bg_color=101114&color=F3F0E8&line=6366F1&point=818CF8&area=true&hide_border=true"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghriphos&bg_color=101114&color=F3F0E8&line=6366F1&point=818CF8&area=true&hide_border=true" />
 
 </div>
 
@@ -209,8 +199,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=ghriphos&bg_
 I'm always interested in discussing:
 
 **Software Engineering · SaaS · AI · Automation · Business Systems**
-
-\
 
 ---
 
